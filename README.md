@@ -1,2 +1,2 @@
 # VeganStore
-A website created using html and css
+A website created using HTML & CSS
