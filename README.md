@@ -1,2 +1,2 @@
 # VeganStore
-A website created using HTML & CSS
+A food delivery website
